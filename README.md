@@ -1,3 +1,4 @@
+![](https://img.shields.io/github/license/laplacetw/Apps-Script-SubTube)
 # Apps-Script-SubTube
 Lowering quota usage of YouTube Data API with UrlFetchApp service on GAS.
 
