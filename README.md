@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/license/laplacetw/Apps-Script-SubTube)
 # Apps-Script-SubTube
-Lowering quota usage of YouTube Data API with UrlFetchApp service on GAS.
+Get specified video info without YouTube Data API.
 
 ## Table of Contents
   - [About](#about)
@@ -14,7 +14,7 @@ Due to my side project [HoloDDer](https://github.com/laplacetw/HoloDDer), I noti
   - A search request costs 100 units.
   - A video upload costs 1600 units.
 
-There are some requests for searching video info with YouTube link in the side project which will results in exceeding YouTube Data API quota limit. So I spend a little time to implement it with `UrlFetchApp` service.
+There are some requests for crawling specified video info in my side project which will results in exceeding YouTube Data API quota limit. So I spend a little time to implement it with `UrlFetchApp` service.
 
 Search By       |YouTube Data API       |UrlFetchApp
 :--------------:|:---------------------:|:-------------------:
