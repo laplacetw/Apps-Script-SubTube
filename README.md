@@ -27,7 +27,7 @@ Script ID: `15wcYYK_3nUaq9UpCzYh_fNSomaSF0MVNXi2bWRqeb6AUenpHk6UWihnR`
 
 Create YouTubeVideo object.
 ```js
-//const video = new SubTube.video("https://www.youtube.com/watch?v=NyI6JILCjVA");
+//const video = SubTube.video("https://www.youtube.com/watch?v=NyI6JILCjVA");
 const video = SubTube.video("https://youtu.be/NyI6JILCjVA");
 ```
 
