@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/license/laplacetw/Apps-Script-SubTube)
 # Apps-Script-SubTube
-Get specified video info without YouTube Data API.
+Get specified video info without YouTube Data API on GAS.
 
 ## Table of Contents
   - [About](#about)
